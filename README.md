@@ -1,5 +1,5 @@
 # hsdet
-Customer Object Detection And Segmentation Framework for internal use
+Customized Object Detection And Segmentation Framework for internal use
 
 ## Quick Installation
 ```python
